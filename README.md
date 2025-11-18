@@ -14,7 +14,7 @@ Welcome to my portfolio website! This project is built with modern web technolog
 
 ## Overview
 
-This portfolio website leverages a combination of cutting-edge technologies to deliver a visually engaging and interactive experience. It integrates 3D animations, particle effects, and smooth transitions to create a modern, responsive interface. Whether you’re browsing on desktop or mobile, you'll enjoy an optimized and dynamic experience.  
+This portfolio website leverages a combination of cutting edge technologies to deliver a visually engaging and interactive experience. It integrates 3D animations, particle effects, and smooth transitions to create a modern, responsive interface. Whether you’re browsing on desktop or mobile, you'll enjoy an optimized and dynamic experience.  
 **Note:** SEO is primarily optimized (Basic SEO; this is my first experience).
 
 ## Features
@@ -45,4 +45,5 @@ This project deployed on **Vercel**
 ## Contact
 
 If you have any questions, suggestions, or would like to get in touch, please use the contact form on the website or email me directly at qkubcommercial@gmail.com
+
 
